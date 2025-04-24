@@ -1,0 +1,31 @@
+{
+	"name": "Platform abstraction",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "gtm94zkydhs",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r432.3",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Tilemap",
+		"Sprite",
+		"Keyboard",
+		"Text",
+		"AJAX"
+	],
+	"used-behaviors": [
+		"solid",
+		"Flash",
+		"Platform",
+		"scrollto",
+		"Sin"
+	]
+}
