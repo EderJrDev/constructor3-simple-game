@@ -17,6 +17,9 @@ Este é um jogo 2D desenvolvido na plataforma Construct 3 com integração ao Fi
 - Construct 3
 - Firebase (para banco de dados NoSQL)
 
+## Link do jogo
+https://constructor3-simple-game.vercel.app/
+
 ## Prints
 ![Imagem do Jogo](https://github.com/EderJrDev/constructor3-simple-game/blob/main/prints/img-1.png)
 ![Imagem do Jogo](https://github.com/EderJrDev/constructor3-simple-game/blob/main/prints/img-2.png)
