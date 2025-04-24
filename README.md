@@ -18,8 +18,5 @@ Este é um jogo 2D desenvolvido na plataforma Construct 3 com integração ao Fi
 - Firebase (para banco de dados NoSQL)
 
 ## Prints
-![Imagem do Jogo](link-da-imagem-do-jogo)
-![Banco de Dados Firebase](link-da-imagem-do-banco)
-
-## Link do Jogo Online
-[Link para o Jogo Online](URL-do-jogo)
+![Imagem do Jogo](https://github.com/EderJrDev/constructor3-simple-game/blob/main/prints/img-1.png)
+![Imagem do Jogo](https://github.com/EderJrDev/constructor3-simple-game/blob/main/prints/img-2.png)
